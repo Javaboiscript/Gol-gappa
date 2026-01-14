@@ -83,3 +83,6 @@ The hybrid TF-IDF + LightGBM approach provides stable predictions across catalog
 ## Conclusion
 A scalable hybrid ML model that efficiently integrates textual semantics and structured features for product price prediction. The approach demonstrates the importance of preprocessing, unit normalization, and modular feature pipelines for robust and generalizable results.
 
+## Usage 
+run the ipynb file provided
+
